@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85dd8dce-54c6-42ec-b2a1-b1aec44a136f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-todo" beforeDir="false" afterPath="$PROJECT_DIR$/java-todo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-todo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java-todo/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-todo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-todo/README.md" afterDir="false" />
